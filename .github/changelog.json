@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:18:58Z",
+  "generatedAt": "2026-09-12T20:45:39Z",
   "processedShas": [
     "02125ec429ec1ce9c5acdec1604703cb058a7887",
     "02231fb0a59ee43f93c6d0143640284cb7587d71",
@@ -453,7 +453,12 @@
     800,
     802,
     803,
-    804
+    804,
+    806,
+    807,
+    808,
+    809,
+    812
   ],
   "entries": [
     {
@@ -7269,6 +7274,56 @@
     }
   ],
   "rejections": [
+    {
+      "date": "2026-09-12",
+      "title": "Add Mailfo to Mail Forwarding & Disposable Email",
+      "pr": {
+        "number": 812,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/812",
+        "author": "shawonislam24",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/86244862?v=4"
+      }
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Add SnappyKit to Creativity > Image Editors",
+      "pr": {
+        "number": 809,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/809",
+        "author": "jamesdanner",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/8231955?v=4"
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Adds EIDEX to Crypto Exchanges",
+      "pr": {
+        "number": 808,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/808",
+        "author": "slaenov",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/122321731?v=4"
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Add Callro to Mobile Apps",
+      "pr": {
+        "number": 807,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/807",
+        "author": "umustufa174-wq",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/264721342?v=4"
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Adds Script Lean to Ad Blockers",
+      "pr": {
+        "number": 806,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/806",
+        "author": "duydanh9989",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/71323169?v=4"
+      }
+    },
     {
       "date": "2026-09-08",
       "title": "Add SafeUnfollow in Social Networks",
